@@ -1,6 +1,6 @@
 <img src="assets/bonafela_loves_gemma.png" width="1024">
 
-# Make Your Computer Smart For Free
+# Make Your Computer Smart
 
 The code in this repo is a text generation tool based on [Google Gemma](https://blog.google/technology/developers/gemma-open-models/). 
 It generates answers to almost anything you ask in both interactive and batch mode.
