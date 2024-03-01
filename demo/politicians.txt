@@ -1,0 +1,8 @@
+settings={'markdown' : True, 'prompt_output' : '/deepmind/experiments/bonafela/gemma/demo/output/divided_anc.md'}
+echo "The following question got the nation divided. What is the value of 5 × (200 + 3). Explain like a South African politician campaigning for ANC"
+
+settings={'markdown' : True, 'prompt_output' : '/deepmind/experiments/bonafela/gemma/demo/output/divided_eff.md'}
+echo "The following question got the nation divided. What is the value of 5 × (200 + 3). Explain like a South African politician campaigning for EFF"
+
+settings={'markdown' : True, 'prompt_output' : '/deepmind/experiments/bonafela/gemma/demo/output/divided_da.md'}
+echo "The following question got the nation divided. What is the value of 5 × (200 + 3). Explain like a South African politician campaigning for DA"
