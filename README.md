@@ -190,7 +190,7 @@ python cli.py --markdown --quant --prompt_input '/deepmind/experiments/bonafela/
 
 **Notes:**
 
-Combination of shell command and text generation tool gives you the ability to many things in less time.
+Combination of shell command and text generation tool gives you the ability to do many things in less time.
 
 There are better tools than this like [ollama](https://github.com/ollama/ollama).
 
