@@ -1,0 +1,62 @@
+settings={'prompt_output' : '/home/thehype/bonasmart-courses/programming/cpp-beginner/hello.md'}
+echo "write c++ hello world. start with code, output, explanation,notes, gotchas, questions, answers to questions, detailed exercises, detailed answers to exercise in that order. questions must be 5 or more. exercises must be 5 or more. In all cases do not use namespace. In all cases use std::cout only"
+
+settings={'prompt_output' : '/home/thehype/bonasmart-courses/programming/cpp-beginner/data_types.md'}
+echo "what are basic data types in c++."
+
+settings={'prompt_output' : '/home/thehype/bonasmart-courses/programming/cpp-beginner/int.md'}
+echo "write c++ details use of Integers. start with code, output, explanation,notes, gotchas, questions, answers to questions, detailed exercises, detailed answers to exercise in that order. questions must be 5 or more. exercises must be 5 or more. In all cases do not use namespace. In all cases use std::cout only"
+
+settings={'prompt_output' : '/home/thehype/bonasmart-courses/programming/cpp-beginner/float_double.md'}
+echo "write c++ details use of Floating-point numbers. start with code, output, explanation,notes, gotchas, questions, answers to questions, detailed exercises, detailed answers to exercise in that order. questions must be 5 or more. exercises must be 5 or more. In all cases do not use namespace. In all cases use std::cout only"
+
+settings={'prompt_output' : '/home/thehype/bonasmart-courses/programming/cpp-beginner/boolean.md'}
+echo "write c++ details use of Boolean. start with code, output, explanation,notes, gotchas, questions, answers to questions, detailed exercises, detailed answers to exercise in that order. questions must be 5 or more. exercises must be 5 or more. In all cases do not use namespace. In all cases use std::cout only"
+
+settings={'prompt_output' : '/home/thehype/bonasmart-courses/programming/cpp-beginner/arrays.md'}
+echo "write c++ details use of Arrays. start with code, output, explanation,notes, gotchas, questions, answers to questions, detailed exercises, detailed answers to exercise in that order. questions must be 5 or more. exercises must be 5 or more. In all cases do not use namespace. In all cases use std::cout only"
+
+settings={'prompt_output' : '/home/thehype/bonasmart-courses/programming/cpp-beginner/pointers.md'}
+echo "write c++ details use of Pointers. start with code, output, explanation,notes, gotchas, questions, answers to questions, detailed exercises, detailed answers to exercise in that order. questions must be 5 or more. exercises must be 5 or more. In all cases do not use namespace. In all cases use std::cout only"
+
+settings={'prompt_output' : '/home/thehype/bonasmart-courses/programming/cpp-beginner/strings.md'}
+echo "write c++ details use of Strings. start with code, output, explanation,notes, gotchas, questions, answers to questions, detailed exercises, detailed answers to exercise in that order. questions must be 5 or more. exercises must be 5 or more. In all cases do not use namespace. In all cases use std::cout only"
+
+settings={'prompt_output' : '/home/thehype/bonasmart-courses/programming/cpp-beginner/enum.md'}
+echo "write c++ details use of Enumerations. start with code, output, explanation,notes, gotchas, questions, answers to questions, detailed exercises, detailed answers to exercise in that order. questions must be 5 or more. exercises must be 5 or more. In all cases do not use namespace. In all cases use std::cout only"
+
+settings={'prompt_output' : '/home/thehype/bonasmart-courses/programming/cpp-beginner/struct.md'}
+echo "write c++ details use of Structures. start with code, output, explanation,notes, gotchas, questions, answers to questions, detailed exercises, detailed answers to exercise in that order. questions must be 5 or more. exercises must be 5 or more. In all cases do not use namespace. In all cases use std::cout only"
+
+settings={'prompt_output' : '/home/thehype/bonasmart-courses/programming/cpp-beginner/unions.md'}
+echo "write c++ details use of Unions. start with code, output, explanation,notes, gotchas, questions, answers to questions, detailed exercises, detailed answers to exercise in that order. questions must be 5 or more. exercises must be 5 or more. In all cases do not use namespace. In all cases use std::cout only"
+
+settings={'prompt_output' : '/home/thehype/bonasmart-courses/programming/cpp-beginner/references.md'}
+echo "write c++ details use of References. start with code, output, explanation,notes, gotchas, questions, answers to questions, detailed exercises, detailed answers to exercise in that order. questions must be 5 or more. exercises must be 5 or more. In all cases do not use namespace. In all cases use std::cout only"
+
+settings={'prompt_output' : '/home/thehype/bonasmart-courses/programming/cpp-beginner/vector.md'}
+echo "write c++ details use of vector. start with code, output, explanation,notes, gotchas, questions, answers to questions, detailed exercises, detailed answers to exercise in that order. questions must be 5 or more. exercises must be 5 or more. In all cases do not use namespace. In all cases use std::cout only"
+
+settings={'prompt_output' : '/home/thehype/bonasmart-courses/programming/cpp-beginner/list.md'}
+echo "write c++ details use of list. start with code, output, explanation,notes, gotchas, questions, answers to questions, detailed exercises, detailed answers to exercise in that order. questions must be 5 or more. exercises must be 5 or more. In all cases do not use namespace. In all cases use std::cout only"
+
+settings={'prompt_output' : '/home/thehype/bonasmart-courses/programming/cpp-beginner/map.md'}
+echo "write c++ details use of map. start with code, output, explanation,notes, gotchas, questions, answers to questions, detailed exercises, detailed answers to exercise in that order. questions must be 5 or more. exercises must be 5 or more. In all cases do not use namespace. In all cases use std::cout only"
+
+settings={'prompt_output' : '/home/thehype/bonasmart-courses/programming/cpp-beginner/set.md'}
+echo "write c++ details use of set. start with code, output, explanation,notes, gotchas, questions, answers to questions, detailed exercises, detailed answers to exercise in that order. questions must be 5 or more. exercises must be 5 or more. In all cases do not use namespace. In all cases use std::cout only"
+
+settings={'prompt_output' : '/home/thehype/bonasmart-courses/programming/cpp-beginner/std_cin.md'}
+echo "write c++ details use of std::cin. start with code, output, explanation,notes, gotchas, questions, answers to questions, detailed exercises, detailed answers to exercise in that order. questions must be 5 or more. exercises must be 5 or more. In all cases do not use namespace."
+
+settings={'prompt_output' : '/home/thehype/bonasmart-courses/programming/cpp-beginner/auto.md'}
+echo "write c++ details use of auto syntax. start with code, output, explanation,notes, gotchas, questions, answers to questions, detailed exercises, detailed answers to exercise in that order. questions must be 5 or more. exercises must be 5 or more. In all cases do not use namespace."
+
+settings={'prompt_output' : '/home/thehype/bonasmart-courses/programming/cpp-beginner/functions.md'}
+echo "write c++ details use of functions syntax. start with code, output, explanation,notes, gotchas, questions, answers to questions, detailed exercises, detailed answers to exercise in that order. questions must be 5 or more. exercises must be 5 or more. In all cases do not use namespace."
+
+settings={'prompt_output' : '/home/thehype/bonasmart-courses/programming/cpp-beginner/lambda.md'}
+echo "write c++ details use of lambda syntax. start with code, output, explanation,notes, gotchas, questions, answers to questions, detailed exercises, detailed answers to exercise in that order. questions must be 5 or more. exercises must be 5 or more. In all cases do not use namespace."
+
+settings={'prompt_output' : '/home/thehype/bonasmart-courses/programming/cpp-beginner/class.md'}
+echo "write c++ details use of class syntax. start with code, output, explanation,notes, gotchas, questions, answers to questions, detailed exercises, detailed answers to exercise in that order. questions must be 5 or more. exercises must be 5 or more. In all cases do not use namespace."
