@@ -178,6 +178,8 @@ def process_command(command: str | None, console: Console, pipeline: Pipeline, a
             temperature=args.temperature,
             top_k=args.top_k,
             top_p=args.top_p,
+            pad_token_id=pipeline.tokenizer.eos_token_id,
+            prompt_lookup_num_tokens=10, # https://github.com/apoorvumang/prompt-lookup-decoding
         )
     end = time.time()
     execution = end - start
